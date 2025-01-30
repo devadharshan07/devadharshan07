@@ -1,25 +1,29 @@
-👋 Hello, I'm Deva Dharshan!
-Machine Learning Engineer | Full Stack Developer | AI Enthusiast
+# 👋 Hello, I'm S Deva Dharshan!
 
+Welcome to my corner of GitHub! I’m an *AI Specialist* with a passion for turning ideas into impactful solutions using the power of *Artificial Intelligence* and *Machine Learning*. Whether it's crafting self-learning systems, building interactive applications, or exploring Generative AI, I strive to stay at the cutting edge of technology.
 
+## 🌟 About Me:
+- 🎓 Pursuing a B.Tech in *Computer Science with a specialization in AI & ML* at Dayananda Sagar University, Bengaluru.  
+- 💡 Skilled in *Python, **Java, and frameworks like **TensorFlow, **Keras, and **Scikit-learn*.  
+- 🚀 Experienced in AI technologies such as *Deep Learning, **Generative AI, and **Natural Language Processing*.  
 
+## 💼 Featured Projects:
+- **[ZENO.V](https://github.com/devadharshan07/personal-AI-assistant):** A personal AI assistant integrating *voice and face recognition* for a seamless, personalized experience.  
+- **[ISCRIPT](https://github.com/devadharshan07/AI-Script-Generator):** A Generative AI-powered *movie script generator* that tailors scenes and dialogues based on user input.  
+- **[Diabetes Detector](https://github.com/devadharshan07/diabetes-detection):** An AI-powered early detection for diabetes!.  
 
-🔧 Technologies & Tools
-Programming Languages: Python | C++ | Java
-Machine Learning: TensorFlow | PyTorch | Scikit-learn
-Full Stack Development: Node.js | React | Django | Express
-Database Management: MySQL | MongoDB
-DevOps & Cloud: Docker | Kubernetes | AWS
-🧠 What I'm Learning
-Exploring Reinforcement Learning and Deep Learning to build smarter AI models.
-Working on Natural Language Processing (NLP) to teach machines to understand and generate human language.
-Continuously improving my Full Stack Development skills with MERN stack.
-🚀 Projects
-Zeno.V: Zeno.V is a smart personal AI assistant designed to streamline daily tasks and enhance productivity. Built with cutting-edge AI technology, Zeno.V can manage schedules, set reminders, provide quick answers, assist with research, and integrate with various apps.
-I Script: This I -Script leverages OpenAI's API to generate text-based content by utilizing OpenAI tokens for authentication. It accepts user input, processes the request through an AI model, and returns intelligent responses or solutions. 
+## 🛠️ Technologies I Love:
+- *AI/ML:* Generative AI, Deep Learning, NLP, Reinforcement Learning, Game AI.  
+- *Game Development:* Unity, C#, NPC behavior modeling, 2D/3D game environments.  
+- *Programming Languages:* Python, Java, C (basics).  
+- *Tools & Frameworks:* TensorFlow, Scikit-learn, OpenAI GPT, Flask.  
 
-💡 Fun Fact
-I once trained an AI model to predict my next coding bug... unfortunately, it’s been right way too many times. 😄
+## 🎓 Certifications:
+- *Java Server Pages:* Expertise in creating dynamic web content with embedded Java.  
+- *Introduction to Generative AI:* Explored text, image, and music generation using popular LLMs.
+- *Augmented Reality and ARCore:* Gained foundational knowledge in AR concepts, ARCore features, and differentiated between AR, VR, and MR applications.  
 
-💬 Let's Connect!
-Feel free to reach out if you'd like to discuss AI, machine learning, or collaborate on any exciting projects! You can find me on LinkedIn (with the name Deva Dharshan), or drop a message here on GitHub.
+## 🌐 Let's Connect:
+Explore my [portfolio](https://koushik140803.github.io/Portfolio/) or connect with me on [LinkedIn](https://www.linkedin.com/in/deva-dharshan-90b778242/). Let’s collaborate and create something amazing together!  
+
+Feel free to dive into my repositories and share your feedback. I’m always open to learning and new opportunities!
