@@ -1,29 +1,30 @@
-# 👋 Hello, I'm S Deva Dharshan!
+# Hello, I'm S Deva Dharshan! 👋
 
-Welcome to my corner of GitHub! I’m an *AI Specialist* with a passion for turning ideas into impactful solutions using the power of *Artificial Intelligence* and *Machine Learning*. Whether it's crafting self-learning systems, building interactive applications, or exploring Generative AI, I strive to stay at the cutting edge of technology.
+Welcome to my GitHub universe! I'm an AI Specialist passionate about transforming innovative ideas into impactful solutions through Artificial Intelligence and Machine Learning. Whether it's crafting self-learning systems, building interactive applications, or exploring Generative AI, I strive to stay at the cutting edge of technology.
 
-## 🌟 About Me:
-- 🎓 Pursuing a B.Tech in *Computer Science with a specialization in AI & ML* at Dayananda Sagar University, Bengaluru.  
-- 💡 Skilled in *Python, **Java, and frameworks like **TensorFlow, **Keras, and **Scikit-learn*.  
-- 🚀 Experienced in AI technologies such as *Deep Learning, **Generative AI, and **Natural Language Processing*.  
+![AI & ML Enthusiast](https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-brightgreen)
 
-## 💼 Featured Projects:
-- **[ZENO.V](https://github.com/devadharshan07/personal-AI-assistant):** A personal AI assistant integrating *voice and face recognition* for a seamless, personalized experience.  
-- **[ISCRIPT](https://github.com/devadharshan07/AI-Script-Generator):** A Generative AI-powered *movie script generator* that tailors scenes and dialogues based on user input.  
-- **[Diabetes Detector](https://github.com/devadharshan07/diabetes-detection):** An AI-powered early detection for diabetes!.  
+## About Me
 
-## 🛠️ Technologies I Love:
-- *AI/ML:* Generative AI, Deep Learning, NLP, Reinforcement Learning, Game AI.  
-- *Game Development:* Unity, C#, NPC behavior modeling, 2D/3D game environments.  
-- *Programming Languages:* Python, Java, C (basics).  
-- *Tools & Frameworks:* TensorFlow, Scikit-learn, OpenAI GPT, Flask.  
+- 🎓 Pursuing a B.Tech in Computer Science with a specialization in AI & ML at Dayananda Sagar University, Bengaluru.
+- 💻 Proficient in **Python**, **Java**, and frameworks like **TensorFlow**, **Keras**, and **Scikit-learn**.
+- 🤖 Experienced in AI technologies such as **Deep Learning**, **Generative AI**, and **Natural Language Processing**.
 
-## 🎓 Certifications:
-- *Java Server Pages:* Expertise in creating dynamic web content with embedded Java.  
-- *Introduction to Generative AI:* Explored text, image, and music generation using popular LLMs.
-- *Augmented Reality and ARCore:* Gained foundational knowledge in AR concepts, ARCore features, and differentiated between AR, VR, and MR applications.  
+## Featured Projects
 
-## 🌐 Let's Connect:
-Explore my [portfolio](https://koushik140803.github.io/Portfolio/) or connect with me on [LinkedIn](https://www.linkedin.com/in/deva-dharshan-90b778242/). Let’s collaborate and create something amazing together!  
+- **V.I.S.E**: A project that enhances gaming NPCs by using reinforcement learning algorithms to enable real-time adaptation to player behavior, creating dynamic and challenging gameplay.
+- **ZENO.V**: A personal AI assistant integrating voice and face recognition for a seamless, personalized experience.
+- **ISCRIPT**: A Generative AI-powered movie script generator that tailors scripts based on user input.
+  
 
-Feel free to dive into my repositories and share your feedback. I’m always open to learning and new opportunities!
+## GitHub Stats
+
+![Deva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devadharshan07&show_icons=true&theme=radical)
+
+## Let's Connect!
+
+I'm always eager to collaborate on innovative projects or discuss the latest advancements in AI and Machine Learning. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or [Twitter](https://twitter.com/your-twitter-handle).
+
+---
+
+*“The best way to predict the future is to invent it.”* – Alan Kay
